@@ -1,0 +1,3 @@
+/home/abocquiny/indie/CMakeFiles/rebuild_cache.dir
+/home/abocquiny/indie/CMakeFiles/edit_cache.dir
+/home/abocquiny/indie/CMakeFiles/bomberman.dir

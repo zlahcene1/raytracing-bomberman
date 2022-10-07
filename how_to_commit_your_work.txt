@@ -1,0 +1,6 @@
+première étape commitez votre travail dans votre branch
+ensuite allez sur github et acceptez la merge request en utilisant le system de résolution des conflits
+allez ensuite dans master : git checkout master
+pull: git pull
+retournez dans votre branch et faites: git pull origin [nom de votre branch]
+et ensuite faites: git merge master
